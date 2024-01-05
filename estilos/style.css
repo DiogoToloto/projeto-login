@@ -15,6 +15,7 @@ div#container {
     width: 90vw;
     height: 720px;
     margin: auto;
+    margin-top: 50px;
     padding-bottom: 35px;
     border-radius: 15px;
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.678);
