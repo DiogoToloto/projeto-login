@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+
+ html {
+    height: 100vh;
+ }
+
+ div#container {
+  width: 800px;
+  height: 300px;
+  margin-top: 200px;
+  display: flex;
+  padding: 0px;
+ }
+
+ div#imagem {
+  width: 40%;
+  height: 200px;
+ }
+
+ div#imagem img {
+    height: 300px;
+    border-radius: 15px 0px 0px 15px;
+ } 
+
+ div#cadastro {
+  width: 60%;
+  height: 300px;
+ }
+
+ div#cadastro h1 {
+    font-size: 1.5em;
+ }
+
+ div#cadastro .aviso {
+    font-size: 12px;
+ }
+
+ div.dados {
+    height: 36px;
+ }
+
+ div.icone {
+    width: 10%;
+ }
+
+ div.dados input {
+    height: 35px;
+    width: 405px;
+ }
+ 
+ div.container-btn input{
+    font-size: 14px;
+    padding: 12px;
+ }
+}
