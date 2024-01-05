@@ -15,7 +15,7 @@ div#container {
     width: 90vw;
     height: 800px;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 80px;
     padding-bottom: 35px;
     border-radius: 15px;
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.678);
@@ -70,7 +70,7 @@ span {
 
 div.dados input {
     height: 50px;
-    width: 303px;
+    width: 347px;
     border-radius: 10px;
     border: none;
 }
@@ -81,7 +81,7 @@ div.dados input {
     width: 100%;
     padding: 20px;
     margin: 5px 0px ;
-    border: 1px solid #6CD3CF;
+    border: 1px solid rgb(123, 0, 255);
     border-radius: 5px;
 }
 
@@ -95,13 +95,13 @@ input::placeholder {
 }
 
 #login:hover {
-    background-color: #6CD3CF;
+    background-color: rgb(123, 0, 255);
     color: #fff;
     cursor: pointer;
 }
 
 #redefinir:hover {
-    background-color: #6CD3CF;
+    background-color: rgb(123, 0, 255);
     color: #fff;
     cursor: pointer;
 }
