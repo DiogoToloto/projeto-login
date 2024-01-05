@@ -15,7 +15,7 @@ div#container {
     width: 90vw;
     height: 800px;
     margin: auto;
-    margin-top: 80px;
+    margin-top: 70px;
     padding-bottom: 35px;
     border-radius: 15px;
     box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.678);
@@ -70,7 +70,7 @@ span {
 
 div.dados input {
     height: 50px;
-    width: 345px;
+    width: 343px;
     border-radius: 10px;
     border: none;
 }
